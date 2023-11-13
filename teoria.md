@@ -1,0 +1,2 @@
+# Anotações sobre Fuzzy matching
+
